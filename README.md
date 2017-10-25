@@ -9,7 +9,9 @@ Twitter Sentiment Analysis iOS App
 This application was developed to use natural language processing to analyse the overall sentiment of tweets and visualise the results in real-time on a per topic basis, packaged in a user-friendly mobile application, allowing for smarter, data-driven decision making for   business,   marketing   and   political   purposes.
 
 Report.pdf: Project report covering research, analysis, implementation and performance.
+
 Presentation.pdf: Project presentation
+
 Acknowledgments: Contains the list of open source software used for developing both the client and the server.
 
 Features:
