@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'TwitterSentiment' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TwitterSentiment
+  # Networking
+  pod 'SwiftyJSON', '~> 3.1.4'
+  pod 'Alamofire', '~> 4.4.0'
+  pod 'AlamofireImage', '~> 3.1'
+  
+  # UI and Utils
+  pod 'ActiveLabel', '~> 0.7.1'
+  pod 'Charts', '~> 3.0.1'
+  pod 'FontAwesome.swift', '~> 1.0.0'
+  pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git'
+
+end
